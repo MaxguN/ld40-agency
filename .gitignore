@@ -21,6 +21,7 @@ yarn-error.log*
 .c9/
 *.launch
 .settings/
+*.sublime-project
 *.sublime-workspace
 # Runtime data
 pids
